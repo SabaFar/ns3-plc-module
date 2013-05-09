@@ -4,7 +4,8 @@ An ns-3 module for simulations of power line communication networks
 
 ##Overview
 
-The provided module enables simulations of power line communication networks with the network simulator-3 (ns-3). It is intended for protocol development and application testing under realistic link
+The provided module enables simulations of power line communication networks with the network simulator
+environment ns-3. It is intended for protocol development and application testing under realistic link
 performance emulation between plc devices of a deterministic grid topology. The latter has to be specified by
 the user in terms of its geometrical layout, the used cable types, the positions and values of network impedances
 and the location of plc devices within the network. The module also supports the definition of two-port
