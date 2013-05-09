@@ -1,7 +1,7 @@
 ns3-plc-module
 ==============
 Author:  Alexander Schlögl
-NS-3 module for simulations of power line communication networks
+# The NS-3 module for simulation of power line communication networks
 
 ##Overview
 
