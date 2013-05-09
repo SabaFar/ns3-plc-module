@@ -16,5 +16,5 @@ def build(bld):
     obj = bld.create_ns3_program('plc-test', ['plc', 'spectrum'])
     obj.source = 'plc-test.cc'
     
-    obj = bld.create_ns3_program('plc-practice', ['plc', 'spectrum'])
-    obj.source = 'plc-practice.cc'
+  #  obj = bld.create_ns3_program('plc-practice', ['plc', 'spectrum'])
+  #  obj.source = 'plc-practice.cc'
